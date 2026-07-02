@@ -2,7 +2,8 @@
 
 Engineering repository for the Höfrungr VTOL UAV project.
 
-## Objectives
+## Scope
+
 - AtomRC Dolphin VTOL proof of concept
 - SkyPack intelligent battery system
 - Custom Smart BMS
@@ -10,4 +11,15 @@ Engineering repository for the Höfrungr VTOL UAV project.
 - Mechanical, electrical and firmware co-development
 
 ## Repository Structure
-See the folder hierarchy for subsystem organization.
+
+```text
+Project-Hoefrungr/
+├── docs/
+├── cad/
+├── electronics/
+├── firmware/
+├── simulations/
+├── manufacturing/
+├── testing/
+└── archive/
+```
