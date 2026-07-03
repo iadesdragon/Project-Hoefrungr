@@ -1,1 +1,1 @@
-Add project knowledge base and workflow documentation
+Restructure repository for Systems Engineering V-Model
