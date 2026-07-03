@@ -1,1 +1,1 @@
-Establish repository engineering baseline v1.0
+Update AI engineering playbook
