@@ -1,1 +1,1 @@
-Add system philosophy and project knowledge folders
+Add project knowledge base and workflow documentation

@@ -1,17 +1,17 @@
 # Apply Instructions
 
-Copy the `docs/` folder from this package into the root of the existing Höfrungr Git repository.
+Dieses Paket in die Root-Ebene des bestehenden Höfrungr-Git-Repositories kopieren.
 
-Then run:
+Danach:
+
+```bash
+git add docs/Knowledge project
+git commit -m "Add project knowledge base and workflow documentation"
+```
+
+Optional anschließend:
 
 ```bash
 git status
-git add docs/System docs/Decisions docs/Research docs/Concepts docs/References
-git commit -m "Add system philosophy and project knowledge folders"
-```
-
-Optional:
-
-```bash
-git push
+git log --oneline -5
 ```
