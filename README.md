@@ -1,25 +1,27 @@
-# Project Höfrungr
+# Projekt Höfrungr
 
-Engineering repository for the Höfrungr VTOL UAV project.
+Projekt Höfrungr ist ein systemtechnisches Entwicklungsprojekt für eine integrierte UAV-Plattform. Ziel ist der Aufbau einer professionell dokumentierten, modularen und versionierten Entwicklungsbasis.
 
-## Scope
+## Dokumentationsstruktur
 
-- AtomRC Dolphin VTOL proof of concept
-- SkyPack intelligent battery system
-- Custom Smart BMS
-- iNAV integration
-- Mechanical, electrical and firmware co-development
+- `docs/Vision/` – Projektvision und Entwicklungsphilosophie
+- `docs/SRS/` – System Requirements Specification
+- `docs/HDD/` – High Level Design Document
+- `docs/ADR/` – Architecture Decision Records
+- `docs/Roadmap/` – Projekt-Roadmap und Meilensteine
+- `docs/Requirements/` – Detailanforderungen
+- `docs/Interfaces/` – Schnittstellenbeschreibungen
+- `docs/Subsystems/` – Subsystemdesigns
+- `docs/Simulation/` – Simulations- und Berechnungsunterlagen
+- `docs/Test/` – Test- und Verifikationsdokumente
+- `docs/Meetings/` – Gesprächsnotizen und Entwicklungsprotokolle
 
-## Repository Structure
+## Aktueller Stand
 
-```text
-Project-Hoefrungr/
-├── docs/
-├── cad/
-├── electronics/
-├── firmware/
-├── simulations/
-├── manufacturing/
-├── testing/
-└── archive/
-```
+Initiale Dokumentenversionen v0.1 wurden angelegt:
+
+- Vision v0.1
+- SRS v0.1
+- HDD v0.1
+- ADR-001
+- Roadmap v0.1
