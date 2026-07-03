@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# local exports / temporary files
+repo_structure.txt
+repo_tree.txt
+git_status.txt
+*.tmp
+*.bak
+
+# tool/cache folders
+.cache/
+__pycache__/
