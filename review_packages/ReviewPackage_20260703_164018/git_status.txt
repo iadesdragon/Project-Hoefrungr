@@ -1,0 +1,5 @@
+?? git_history.txt
+?? git_status.txt
+?? repo_structure.txt
+?? repo_tree.txt
+?? review_packages/

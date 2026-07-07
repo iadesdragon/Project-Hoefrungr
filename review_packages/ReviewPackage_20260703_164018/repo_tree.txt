@@ -1,0 +1,270 @@
+.
+├── .DS_Store
+├── archive
+│   └── .gitkeep
+├── engineering_platform
+│   ├── .DS_Store
+│   ├── knowledge
+│   │   ├── .DS_Store
+│   │   ├── AI_Findings
+│   │   │   └── .gitkeep
+│   │   ├── Best_Practices
+│   │   │   └── .gitkeep
+│   │   └── Lessons_Learned
+│   │       └── .gitkeep
+│   ├── project_generator
+│   │   └── .gitkeep
+│   ├── README.md
+│   ├── releases
+│   │   └── .gitkeep
+│   ├── standards
+│   │   ├── .DS_Store
+│   │   ├── .gitkeep
+│   │   ├── AI_Collaboration
+│   │   │   ├── .gitkeep
+│   │   │   └── ENG-STD-007_AI_Collaboration_Standard.md
+│   │   ├── Change_Management
+│   │   │   ├── .gitkeep
+│   │   │   ├── ENG-STD-004_Engineering_Change_Process.md
+│   │   │   └── ENG-STD-005_Configuration_Management.md
+│   │   ├── Documents
+│   │   │   ├── .gitkeep
+│   │   │   ├── ENG-STD-002_Document_Standard.md
+│   │   │   └── ENG-STD-003_Naming_Convention.md
+│   │   ├── Repository
+│   │   │   ├── .gitkeep
+│   │   │   └── ENG-STD-001_Repository_Standard.md
+│   │   ├── Requirements
+│   │   │   ├── .gitkeep
+│   │   │   └── ENG-STD-008_Requirements_and_Traceability_Standard.md
+│   │   └── Reviews
+│   │       ├── .gitkeep
+│   │       └── ENG-STD-006_Review_Process.md
+│   ├── templates
+│   │   ├── .DS_Store
+│   │   ├── ADR
+│   │   │   └── .gitkeep
+│   │   ├── Documents
+│   │   │   └── .gitkeep
+│   │   ├── ECP
+│   │   │   ├── .gitkeep
+│   │   │   └── ENG-TPL-ECP-001_ECP_Template.md
+│   │   ├── Requirements
+│   │   │   └── .gitkeep
+│   │   └── Reviews
+│   │       └── .gitkeep
+│   ├── tools
+│   │   └── review
+│   │       ├── generate_review_package.ps1
+│   │       ├── generate_review_package.sh
+│   │       └── README.md
+│   └── workflows
+│       └── .gitkeep
+├── git_history.txt
+├── git_status.txt
+├── projects
+│   ├── .DS_Store
+│   └── Hoefrungr
+│       ├── .DS_Store
+│       ├── .gitignore
+│       ├── archive
+│       │   └── .gitkeep
+│       ├── docs
+│       │   ├── 00_Project_Management
+│       │   │   ├── .gitkeep
+│       │   │   ├── HOF-PCH-001_Project_Charter.md
+│       │   │   ├── HOF-PRM-001_Project_Roadmap_v0.1.md
+│       │   │   └── HOF-RSK-001_Risk_Register.md
+│       │   ├── 01_Mission_and_Stakeholders
+│       │   │   ├── ConOps
+│       │   │   │   ├── .gitkeep
+│       │   │   │   └── HOF-CON-001_ConOps.md
+│       │   │   ├── Mission
+│       │   │   │   ├── .gitkeep
+│       │   │   │   └── HOF-MIS-001_Mission_Statement_v0.1.md
+│       │   │   ├── Stakeholders
+│       │   │   │   ├── .gitkeep
+│       │   │   │   └── HOF-STK-001_Stakeholders.md
+│       │   │   ├── Use_Cases
+│       │   │   │   ├── .gitkeep
+│       │   │   │   └── HOF-UC-001_Use_Cases.md
+│       │   │   └── Vision
+│       │   │       ├── .gitkeep
+│       │   │       └── HOF-VIS-001_Vision_v0.1.md
+│       │   ├── 02_System_Requirements
+│       │   │   ├── Constraints
+│       │   │   │   └── .gitkeep
+│       │   │   ├── Glossary
+│       │   │   │   ├── .gitkeep
+│       │   │   │   └── HOF-GLS-001_System_Glossary.md
+│       │   │   ├── SRS
+│       │   │   │   ├── .gitkeep
+│       │   │   │   └── HOF-SRS-001_SRS_v0.1.md
+│       │   │   └── Traceability
+│       │   │       ├── .gitkeep
+│       │   │       └── HOF-RTM-001_Requirements_Traceability.md
+│       │   ├── 03_System_Architecture
+│       │   │   ├── ADR
+│       │   │   │   ├── .gitkeep
+│       │   │   │   └── HOF-ADR-001_Development_Process.md
+│       │   │   ├── Context
+│       │   │   │   ├── .gitkeep
+│       │   │   │   └── HOF-CTX-001_System_Context.md
+│       │   │   ├── Decision_Log
+│       │   │   │   ├── .gitkeep
+│       │   │   │   └── README.md
+│       │   │   ├── Functional_Architecture
+│       │   │   │   └── .gitkeep
+│       │   │   ├── HDD
+│       │   │   │   ├── .gitkeep
+│       │   │   │   └── HOF-HDD-001_HDD_v0.1.md
+│       │   │   ├── Interfaces
+│       │   │   │   └── .gitkeep
+│       │   │   └── Physical_Architecture
+│       │   │       └── .gitkeep
+│       │   ├── 04_Subsystems
+│       │   │   ├── Airframe
+│       │   │   │   └── .gitkeep
+│       │   │   ├── Avionics
+│       │   │   │   └── .gitkeep
+│       │   │   ├── Communications
+│       │   │   │   └── .gitkeep
+│       │   │   ├── Mission_Computer
+│       │   │   │   └── .gitkeep
+│       │   │   ├── Navigation
+│       │   │   │   └── .gitkeep
+│       │   │   ├── Payload
+│       │   │   │   └── .gitkeep
+│       │   │   └── Power
+│       │   │       └── .gitkeep
+│       │   ├── 05_Verification_and_Validation
+│       │   │   ├── FMEA
+│       │   │   │   └── .gitkeep
+│       │   │   ├── Reviews
+│       │   │   │   └── .gitkeep
+│       │   │   ├── Test_Cases
+│       │   │   │   └── .gitkeep
+│       │   │   ├── Test_Plans
+│       │   │   │   └── .gitkeep
+│       │   │   ├── Validation
+│       │   │   │   └── .gitkeep
+│       │   │   └── Verification_Records
+│       │   │       └── .gitkeep
+│       │   ├── 06_Engineering
+│       │   │   ├── AI_Collaboration
+│       │   │   │   ├── .gitkeep
+│       │   │   │   └── HOF-AIP-001_AI_Engineering_Playbook.md
+│       │   │   ├── Journal
+│       │   │   │   ├── .gitkeep
+│       │   │   │   └── HOF-JRN-001_Engineering_Journal.md
+│       │   │   ├── Knowledge
+│       │   │   │   ├── .gitkeep
+│       │   │   │   ├── HOF-KNW-AI_Findings.md
+│       │   │   │   ├── HOF-KNW-Best_Practices.md
+│       │   │   │   ├── HOF-KNW-Lessons_Learned.md
+│       │   │   │   ├── HOF-KNW-Open_Questions.md
+│       │   │   │   └── README.md
+│       │   │   ├── Process
+│       │   │   │   ├── .gitkeep
+│       │   │   │   ├── HOF-ENG-AI_Collaboration_Model.md
+│       │   │   │   ├── HOF-ENG-Decision_Process.md
+│       │   │   │   ├── HOF-ENG-Documentation_Guidelines.md
+│       │   │   │   └── HOF-ENG-Engineering_Principles.md
+│       │   │   ├── Reviews
+│       │   │   │   ├── .gitkeep
+│       │   │   │   └── HOF-REV-001_Review_Checklist.md
+│       │   │   └── Standards
+│       │   │       ├── .gitkeep
+│       │   │       ├── HOF-DNS-001_Document_Numbering_Standard.md
+│       │   │       ├── HOF-ENG-System_Philosophy.md
+│       │   │       ├── HOF-RDG-001_Repository_Structure_Guide.md
+│       │   │       ├── HOF-RTS-001_Requirements_Traceability_Strategy.md
+│       │   │       └── HOF-STD-001_Naming_Conventions.md
+│       │   ├── 07_Research
+│       │   │   ├── Concepts
+│       │   │   │   ├── .gitkeep
+│       │   │   │   └── README.md
+│       │   │   └── Research_Notes
+│       │   │       ├── .gitkeep
+│       │   │       └── README.md
+│       │   ├── 08_References
+│       │   │   ├── .gitkeep
+│       │   │   └── README.md
+│       │   └── 09_Archive
+│       │       └── .gitkeep
+│       ├── hardware
+│       │   ├── Airframe
+│       │   │   ├── CAD
+│       │   │   │   └── .gitkeep
+│       │   │   └── Manufacturing
+│       │   │       └── .gitkeep
+│       │   ├── Electronics
+│       │   │   ├── Libraries
+│       │   │   │   └── .gitkeep
+│       │   │   └── PCB
+│       │   │       └── .gitkeep
+│       │   ├── Manufacturing
+│       │   │   ├── BOM
+│       │   │   │   └── .gitkeep
+│       │   │   ├── Gerber
+│       │   │   │   └── .gitkeep
+│       │   │   ├── STEP
+│       │   │   │   └── .gitkeep
+│       │   │   └── STL
+│       │   │       └── .gitkeep
+│       │   ├── Payload
+│       │   │   └── .gitkeep
+│       │   └── Power
+│       │       └── .gitkeep
+│       ├── project
+│       │   ├── .gitkeep
+│       │   ├── CHANGELOG.md
+│       │   ├── COLLABORATION.md
+│       │   ├── Configuration_Management
+│       │   │   └── ECP
+│       │   │       └── HOF-ECP-0001
+│       │   │           ├── BASELINE_APPROVAL.md
+│       │   │           ├── CHANGELOG.md
+│       │   │           ├── COMMIT_MESSAGE.txt
+│       │   │           ├── IMPACT_ANALYSIS.md
+│       │   │           ├── MANIFEST.md
+│       │   │           ├── MIGRATION_PLAN.md
+│       │   │           ├── README.md
+│       │   │           └── REVIEW_CHECKLIST.md
+│       │   ├── PLATFORM_BASELINE.md
+│       │   ├── PROJECT.md
+│       │   ├── README.md
+│       │   ├── SESSION_LOG.md
+│       │   └── WORKFLOW.md
+│       ├── README.md
+│       ├── simulations
+│       │   └── .gitkeep
+│       ├── software
+│       │   ├── FlightController
+│       │   │   └── .gitkeep
+│       │   ├── GroundControl
+│       │   │   └── .gitkeep
+│       │   ├── Libraries
+│       │   │   └── .gitkeep
+│       │   ├── MissionComputer
+│       │   │   └── .gitkeep
+│       │   └── Tools
+│       │       └── .gitkeep
+│       ├── testing
+│       │   ├── Bench
+│       │   │   └── .gitkeep
+│       │   ├── Flight
+│       │   │   └── .gitkeep
+│       │   ├── Integration
+│       │   │   └── .gitkeep
+│       │   ├── Logs
+│       │   │   └── .gitkeep
+│       │   └── Reports
+│       │       └── .gitkeep
+│       └── tools
+│           └── .gitkeep
+├── README.md
+├── repo_structure.txt
+└── repo_tree.txt
+
+108 directories, 160 files

@@ -1,0 +1,13 @@
+ M .DS_Store
+ M engineering_platform/.DS_Store
+?? ENG-ECP-0001/
+?? engineering_platform/knowledge/ENG-KNW-INDEX.md
+?? engineering_platform/meta/
+?? engineering_platform/standards/ENG-STD-INDEX.md
+?? engineering_platform/templates/ENG-TPL-INDEX.md
+?? engineering_platform/tools/review/REVIEW_METRICS_SPEC.md
+?? git_history.txt
+?? git_status.txt
+?? repo_structure.txt
+?? repo_tree.txt
+?? review_packages/
