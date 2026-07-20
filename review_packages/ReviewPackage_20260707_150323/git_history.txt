@@ -1,0 +1,17 @@
+* 107c533 (HEAD -> main) ENG-ECP-0002 prepare engineering platform v1.0 release
+* 43855e2 HOF-ECP-0002 add repository review package tools
+* fef172e HOF-ECP-0001 establish engineering platform and Hoefrungr baseline
+* cb1c239 (origin/main, origin/HEAD, backup/pre-ecp-0001) Update AI engineering playbook
+* 4246bc2 Create AI_ENGINEERING_PLAYBOOK.md
+* 10929ca (tag: v1.0-engineering-baseline) Establish repository engineering baseline v1.0
+* 0d9af4b Restructure repository for Systems Engineering V-Model
+* 41f194d Add project knowledge base and workflow documentation
+* 3a4a0e4 Add system philosophy and project knowledge folders
+* 63938c3 Add initial engineering process documentation
+* 297fa64 Initial project documentation v0.1
+*   7c60d54 Merge branch 'main' of https://github.com/iadesdragon/Project-Hoefrungr
+|\  
+| * 05f71ea Add files via upload
+* | 776745a setup project structure
+|/  
+* 84edd82 First Setup of Project
