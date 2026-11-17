@@ -1,0 +1,74 @@
+[
+  {
+    "original_path": "engineering_platform/publication/ideas/PUB-IDEA-001_The_Augmented_Engineer.md",
+    "source_commit": "be2c72ecf4bd90a7c4992877c7321932ce572657",
+    "author_date": "2026-07-08T08:53:20+02:00",
+    "snapshot_path": "engineering_platform/publication/history/2026-11-17/publication/ideas/PUB-IDEA-001_The_Augmented_Engineer.md",
+    "blob_sha": "42b3b3e39f1383f1fd351da3c6fbf10a839ebcbb",
+    "sha256": "9c02d077308e6528feedc175983c3a17b8c61013bd776bc031b3790b5ea3e45b",
+    "already_present_identically": true
+  },
+  {
+    "original_path": "engineering_platform/publication/book/BOOK-FOUNDATION-001_Dialogue_as_the_Author.md",
+    "source_commit": "72e86374773a16758a9231c5beaadc98e3a9cefb",
+    "author_date": "2026-07-20T11:06:54+02:00",
+    "snapshot_path": "engineering_platform/publication/history/2026-11-17/publication/book/BOOK-FOUNDATION-001_Dialogue_as_the_Author.md",
+    "blob_sha": "7d5ac328725090cfd0c9e5489d46ac2ccc302d72",
+    "sha256": "9f4cf7dc6c566a5817ab235ce961e4899ab27bf7c6b7bc7fe70577969158b6f8",
+    "already_present_identically": true
+  },
+  {
+    "original_path": "engineering_platform/publication/lessons/PUB-LESSON-001_Documentation_Without_Friction.md",
+    "source_commit": "be2c72ecf4bd90a7c4992877c7321932ce572657",
+    "author_date": "2026-07-08T08:53:20+02:00",
+    "snapshot_path": "engineering_platform/publication/history/2026-11-17/publication/lessons/PUB-LESSON-001_Documentation_Without_Friction.md",
+    "blob_sha": "ca2a7cc9f0b61cbd2eff12070f0bf44ac5fa1ec5",
+    "sha256": "695adbfc45fb1ad3e5ac1839f63890b2c80d8103946798b640628edc3db02159",
+    "already_present_identically": true
+  },
+  {
+    "original_path": "engineering_platform/philosophy/ENG-PHI-001_Engineering_Platform_Philosophy.md",
+    "source_commit": "be2c72ecf4bd90a7c4992877c7321932ce572657",
+    "author_date": "2026-07-08T08:53:20+02:00",
+    "snapshot_path": "engineering_platform/publication/history/2026-11-17/philosophy/ENG-PHI-001_Engineering_Platform_Philosophy.md",
+    "blob_sha": "4a0c42513b2f81c7df9b738fd1a3676ccb1584c0",
+    "sha256": "9dfad59c9e4b21d772878f05542c8d9bd26ef4b1d5c49eae6b0453f0d8b076c3",
+    "already_present_identically": true
+  },
+  {
+    "original_path": "engineering_platform/philosophy/ENG-PHI-002_Engineering_Humility.md",
+    "source_commit": "be2c72ecf4bd90a7c4992877c7321932ce572657",
+    "author_date": "2026-07-08T08:53:20+02:00",
+    "snapshot_path": "engineering_platform/publication/history/2026-11-17/philosophy/ENG-PHI-002_Engineering_Humility.md",
+    "blob_sha": "0f1aec68e47b37e5f43103c42d56e6e9081abdd3",
+    "sha256": "13b0fd0b657035e984856c31f5e67acb42aaf2fbf0e12931e5f05d4c84a891bf",
+    "already_present_identically": true
+  },
+  {
+    "original_path": "engineering_platform/philosophy/ENG-PHI-003_The_Augmented_Engineer.md",
+    "source_commit": "be2c72ecf4bd90a7c4992877c7321932ce572657",
+    "author_date": "2026-07-08T08:53:20+02:00",
+    "snapshot_path": "engineering_platform/publication/history/2026-11-17/philosophy/ENG-PHI-003_The_Augmented_Engineer.md",
+    "blob_sha": "044524b3e29598cddd327d993b1e9288b6e579ea",
+    "sha256": "c1ef4cb14831b3265b50741e84d34dbcffd82ead68b01f586dc0bdb688b3b5c4",
+    "already_present_identically": true
+  },
+  {
+    "original_path": "engineering_platform/knowledge/SESSION_SUMMARY_2026-07-07.md",
+    "source_commit": "be2c72ecf4bd90a7c4992877c7321932ce572657",
+    "author_date": "2026-07-08T08:53:20+02:00",
+    "snapshot_path": "engineering_platform/publication/history/2026-11-17/knowledge/SESSION_SUMMARY_2026-07-07.md",
+    "blob_sha": "5db8c0b0fe3340ee631c8012fa701a512e777d6c",
+    "sha256": "628664016576338a51ecc858e2dfcffe2ec4bb7310ca8e159f658c873d3f6f04",
+    "already_present_identically": true
+  },
+  {
+    "original_path": "engineering_platform/knowledge/Book_Candidates/README.md",
+    "source_commit": "be2c72ecf4bd90a7c4992877c7321932ce572657",
+    "author_date": "2026-07-08T08:53:20+02:00",
+    "snapshot_path": "engineering_platform/publication/history/2026-11-17/knowledge/Book_Candidates/README.md",
+    "blob_sha": "6cb6741f964d1d2d8b094c4a27c0cb93cf3b1242",
+    "sha256": "2afe9ea4a4b01d953c21d2e73ff1645b44eab6a22b9912d41444ed8f94098f5b",
+    "already_present_identically": true
+  }
+]
