@@ -1,0 +1,1 @@
+docs: establish session preservation and archive available chat snapshots

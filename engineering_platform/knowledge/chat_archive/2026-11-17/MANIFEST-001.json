@@ -1,0 +1,34 @@
+[
+  {
+    "path": "engineering_platform/knowledge/chat_archive/2026-11-17/6afc4ee2-fb98-83ed-bdbc-92c7de290315/snapshot-001.json",
+    "thread_id": "6afc4ee2-fb98-83ed-bdbc-92c7de290315",
+    "title": "Lokale KI Insel planen",
+    "retrieved_date": "2026-11-17",
+    "method": "Codex read_thread; turnLimit 10; maxOutputCharsPerItem 20000",
+    "turn_count": 5,
+    "hasMore": false,
+    "sha256": "88b557629e07d3c16d60f4eca7c48af95a702cd4dfc0c76e9bb30ec51da69bf5",
+    "completeness": "partial; source availability not guaranteed; no original attachments; work tool outputs excluded; active turn excluded",
+    "redactions": [
+      "device authentication code",
+      "token-like strings"
+    ],
+    "truncated_items": 0
+  },
+  {
+    "path": "engineering_platform/knowledge/chat_archive/2026-11-17/01a1e9e6-a997-7693-8be4-bebbf896e014/snapshot-001.json",
+    "thread_id": "01a1e9e6-a997-7693-8be4-bebbf896e014",
+    "title": "Sichere CORE ALPHA Fortschritte",
+    "retrieved_date": "2026-11-17",
+    "method": "Codex read_thread; turnLimit 10; maxOutputCharsPerItem 20000",
+    "turn_count": 4,
+    "hasMore": false,
+    "sha256": "829bd9e4dfe93775118888e47634c8ee9ee125eb57d9e66578a7f9cb5a712908",
+    "completeness": "partial; source availability not guaranteed; no original attachments; work tool outputs excluded; active turn excluded",
+    "redactions": [
+      "device authentication code",
+      "token-like strings"
+    ],
+    "truncated_items": 0
+  }
+]
